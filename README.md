@@ -21,7 +21,7 @@
 <span>
 
 <img src="https://img.shields.io/badge/-Java%20Script-yellowgreen"/>
-
+<img src="https://img.shields.io/badge/-HTML-blue"/>
 </span>
 
 
